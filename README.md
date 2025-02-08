@@ -1,1 +1,1 @@
-# Health Cases Prediction: REspiratory and Mental Health Cases
+# Health Cases Prediction: Respiratory and Mental Health Cases
