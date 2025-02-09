@@ -102,7 +102,7 @@ evaluate_ensemble(models_folder, X_test, y_test, X_test_meta, output_dir, model_
 
 The results are based on regression metrics. Below is a visualization of a 7-day prediction from 05/01/2024 to 11/01/2024.
 
-![7 days_Prediction](https://github.com/user-attachments/assets/7be44e03-8fee-401c-a301-c54cd78dbbe4)
+![respiratory](https://github.com/user-attachments/assets/0e70c80b-7366-451d-ba18-67082450a4d9)
 
 The results of the evaluations are saved in the following structure:
 
