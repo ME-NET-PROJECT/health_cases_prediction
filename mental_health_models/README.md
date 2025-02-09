@@ -5,7 +5,7 @@ This repository contains code for predicting mental health cases using various d
 <table>
   <tr>
     <td style="text-align: center; font-weight: bold;">
-      <img src="(https://github.com/user-attachments/assets/825f22e8-f876-4331-b550-b5cba08e072a" alt="Actual Cases on 2024-01-09" style="width: 100%;" />
+      <img src="https://github.com/user-attachments/assets/018ddcaf-d4d8-4d52-b2b9-065f3e53ea80" alt="Actual Cases on 2024-01-09" style="width: 100%;" />
       Actual Cases (2024-01-09)
     </td>
     <td style="text-align: center; font-weight: bold;">
