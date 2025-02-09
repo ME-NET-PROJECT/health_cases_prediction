@@ -5,13 +5,14 @@ This repository contains code for predicting respiratory cases using various dee
 <table>
   <tr>
     <td style="text-align: center; font-weight: bold;">
-      <img src="https://github.com/user-attachments/assets/5c6e6cf8-77e0-4db8-bb29-56e9046e5de6" alt="Actual Cases on 2024-01-09" style="width: 100%;" />
+      <img src="https://github.com/user-attachments/assets/d33eb868-6a8f-4c9b-bfee-a0c9f23fa2c0" alt="Actual Cases on 2024-01-09" style="width: 100%;" />
       Actual Cases (2024-01-09)
     </td>
     <td style="text-align: center; font-weight: bold;">
-      <img src="https://github.com/user-attachments/assets/233e89dd-b7c9-4f8d-8112-46ee7f9b120a" alt="Predicted Cases on 2024-01-09" style="width: 100%;" />
+      <img src="https://github.com/user-attachments/assets/2b2a475c-efc6-483f-9c95-c95b20f6b819" alt="Predicted Cases on 2024-01-09" style="width: 100%;" />
       Predicted Cases (2024-01-09)
     </td>
+
   </tr>
 </table>
 
