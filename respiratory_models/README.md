@@ -99,6 +99,7 @@ evaluate_ensemble(models_folder, X_test, y_test, X_test_meta, output_dir, model_
 ```
 
 ## Results
+The results are based on key regression metrics, as shown in the table below. Respiratory cases typically range between 1 and 100 per spatial location.
 
 <table>
   <thead>
