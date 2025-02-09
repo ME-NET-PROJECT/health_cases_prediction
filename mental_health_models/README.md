@@ -98,6 +98,58 @@ evaluate_ensemble(models_folder, X_test, y_test, X_test_meta, output_dir, model_
 ```
 
 ## Results
+The results are based on relevant regression metrics, with the corresponding results presented in the table below.
+
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>RMSE</th>
+      <th>MAE</th>
+      <th>MSLE</th>
+      <th>R-squared</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lstm</td>
+      <td>3.16</td>
+      <td>2.38</td>
+      <td>0.16</td>
+      <td>0.63</td>
+    </tr>
+    <tr>
+      <td>gru</td>
+      <td>3.12</td>
+      <td>2.39</td>
+      <td>0.16</td>
+      <td>0.64</td>
+    </tr>
+    <tr>
+      <td>bi_lstm</td>
+      <td>3.17</td>
+      <td>2.40</td>
+      <td>0.17</td>
+      <td>0.63</td>
+    </tr>
+    <tr>
+      <td>bi_gru</td>
+      <td>3.17</td>
+      <td>2.41</td>
+      <td>0.17</td>
+      <td>0.62</td>
+    </tr>
+    <tr>
+      <td>ensemble</td>
+      <td>3.09</td>
+      <td>2.37</td>
+      <td>0.16</td>
+      <td>0.64</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 The results are based on regression metrics. Below is a visualization of a 7-day prediction from 05/01/2024 to 11/01/2024.
 
