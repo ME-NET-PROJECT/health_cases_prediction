@@ -100,6 +100,55 @@ evaluate_ensemble(models_folder, X_test, y_test, X_test_meta, output_dir, model_
 
 ## Results
 
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>RMSE</th>
+      <th>MAE</th>
+      <th>MSLE</th>
+      <th>R-squared</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>lstm</td>
+      <td>4.07</td>
+      <td>2.91</td>
+      <td>0.15</td>
+      <td>0.86</td>
+    </tr>
+    <tr>
+      <td>gru</td>
+      <td>4.08</td>
+      <td>2.94</td>
+      <td>0.15</td>
+      <td>0.86</td>
+    </tr>
+    <tr>
+      <td>bi_lstm</td>
+      <td>4.13</td>
+      <td>2.90</td>
+      <td>0.15</td>
+      <td>0.86</td>
+    </tr>
+    <tr>
+      <td>bi_gru</td>
+      <td>4.08</td>
+      <td>2.89</td>
+      <td>0.16</td>
+      <td>0.86</td>
+    </tr>
+    <tr>
+      <td>ensemble</td>
+      <td>4.09</td>
+      <td>2.88</td>
+      <td>0.14</td>
+      <td>0.86</td>
+    </tr>
+  </tbody>
+</table>
+
 The results are based on regression metrics. Below is a visualization of a 7-day prediction from 05/01/2024 to 11/01/2024.
 
 ![respiratory](https://github.com/user-attachments/assets/0e70c80b-7366-451d-ba18-67082450a4d9)
