@@ -1,6 +1,6 @@
 # Respiratory Cases Prediction with Deep Learning
 
-This repository contains code for predicting respiratory cases using various deep learning models such as LSTM, Bi-LSTM, GRU, Bi-GRU, and an ensemble model. The project leverages time-series data to forecast respiratory health trends and evaluate multiple models' performance.
+This repository contains code for predicting respiratory cases using various deep learning models such as LSTM, Bi-LSTM, GRU, Bi-GRU, and an ensemble model. The project uses time-series data to forecast respiratory health trends and evaluate multiple models' performance.
 
 <table>
   <tr>
@@ -172,12 +172,6 @@ results/
     │   ├── visualise/
     └── ...
 ```
-
-### Metrics File: `model_name_metrics.csv`
-Contains the evaluation metrics for each model (RMSE, MAE, MSLE, R-squared).
-
-### Predictions File: `model_name_predictions.csv`
-Contains the predicted respiratory case values alongside true values for comparison.
 
 ## License
 
