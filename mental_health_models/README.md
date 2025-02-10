@@ -1,6 +1,6 @@
 # Mental Health Cases Prediction with Deep Learning
 
-This repository contains code for predicting mental health cases using various deep learning models such as LSTM, Bi-LSTM, GRU, Bi-GRU, and an ensemble model. The project leverages time-series data to forecast mental health trends and evaluate multiple models' performance.
+This repository contains code for predicting mental health cases using various deep learning models such as LSTM, Bi-LSTM, GRU, Bi-GRU, and an ensemble model. The project uses time-series data to forecast mental health trends and evaluate multiple models' performance.
 
 <table>
   <tr>
