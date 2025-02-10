@@ -1,6 +1,6 @@
 # Health Cases Prediction
 
-This repository focuses on predicting various health cases, including mental health and respiratory conditions, using deep learning models. The project leverages time-series data to forecast health trends and provide insights into potential future cases.
+This repository focuses on predicting health cases, including mental health and respiratory conditions, using deep learning models. 
 
 <table>
   <tr>
