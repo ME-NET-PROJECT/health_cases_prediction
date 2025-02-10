@@ -35,8 +35,8 @@ The goal of this project is to develop predictive models for health-related case
 
 ## Applications
 
-- **Mental Health Prediction:** Forecasting trends in mental health conditions to assist in early intervention and resource allocation.
-- **Respiratory Cases Prediction:** Predicting respiratory-related cases to monitor air quality impact and public health preparedness.
+- **Mental Health Prediction:** This system employs five deep learning models to forecast mental health-related case counts based on diverse air quality and climatic factors. At present, predictions are limited to overall case numbers rather than specific categories by primary impression codes. This is due to data gaps in both climate and health records, as well as the time series methodology used, which incorporates a five-day lag.
+- **Respiratory Cases Prediction:** Again, this uses five deep learning models to predict the number of respiratory-related cases based on environmental and climatic features. Similar to the mental health model, it provides aggregated case counts rather than detailed classifications by primary impression codes, owing to missing data in the available datasets and the five-day lag inherent in the time series approach.
 
 ## Results
 
