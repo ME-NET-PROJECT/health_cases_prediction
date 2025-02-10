@@ -174,12 +174,6 @@ results/
     └── ...
 ```
 
-### Metrics File: `model_name_metrics.csv`
-Contains the evaluation metrics for each model (RMSE, MAE, MSLE, R-squared).
-
-### Predictions File: `model_name_predictions.csv`
-Contains the predicted mental health case values alongside true values for comparison.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
