@@ -40,7 +40,7 @@ The goal of this project is to develop predictive models for health-related case
 
 ## Results
 
-The project includes visualizations of predictions over specific periods, demonstrating model performance and trends in health cases. These insights can help in planning medical resources and preventive measures.
+The project features visualisations of predictions over defined time periods, illustrating the models' effectiveness in forecasting health cases. Detailed results can be found in the respective ReadMe.md files within their corresponding folders in this repository.
 
 ## License
 
