@@ -2,20 +2,6 @@
 
 This repository contains code for predicting respiratory cases using various deep learning models such as LSTM, Bi-LSTM, GRU, Bi-GRU, and an ensemble model. The project uses time-series data to forecast respiratory health trends and evaluate multiple models' performance.
 
-<table>
-  <tr>
-    <td style="text-align: center; font-weight: bold;">
-      <img src="https://github.com/user-attachments/assets/d33eb868-6a8f-4c9b-bfee-a0c9f23fa2c0" alt="Actual Cases on 2024-01-09" style="width: 100%;" />
-      Actual Cases (2024-01-09)
-    </td>
-    <td style="text-align: center; font-weight: bold;">
-      <img src="https://github.com/user-attachments/assets/2b2a475c-efc6-483f-9c95-c95b20f6b819" alt="Predicted Cases on 2024-01-09" style="width: 100%;" />
-      Predicted Cases (2024-01-09)
-    </td>
-
-  </tr>
-</table>
-
 ## Overview
 
 The models in this repository are designed to predict respiratory cases using data collected from healthcare and environmental monitoring sources. The primary models implemented are:
@@ -149,10 +135,6 @@ The results are based on key regression metrics, as shown in the table below. Re
     </tr>
   </tbody>
 </table>
-
-The results are based on regression metrics. Below is a visualization of a 7-day prediction from 05/01/2024 to 11/01/2024.
-
-![respiratory](https://github.com/user-attachments/assets/0e70c80b-7366-451d-ba18-67082450a4d9)
 
 The results of the evaluations are saved in the following structure:
 
