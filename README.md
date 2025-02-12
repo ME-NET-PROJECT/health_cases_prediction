@@ -31,7 +31,7 @@ This repository focuses on predicting health cases, including mental health and 
 
 ## Overview
 
-The goal of this project is to develop predictive models for health-related cases, helping healthcare professionals and policymakers make data-driven decisions. The models are trained on relevant datasets and evaluated based on established performance metrics.
+The goal of this project is to develop predictive models for health-related cases, helping healthcare professionals and policymakers make data-driven decisions. The models are trained on relevant datasets (ambulance attendances) and evaluated based on established performance metrics. While model outputs are insightful, accuracy, translation potential and impact would be substantially improved through integrating patient level primary and secondary health service use data to increase data size.
 
 ## Applications
 
